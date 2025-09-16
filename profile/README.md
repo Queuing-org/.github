@@ -27,18 +27,19 @@
 
 - 🎨 [Frontend (Next.js)](https://github.com/Queuing-org/queueing-frontend)
 - ⚡ [Backend (Spring Boot)](https://github.com/Queuing-org/queueing-backend)
-- 📄 [Docs & Design](https://github.com/Queuing-org/queueing-docs)
 
 ---
 
 ## 📌 진행 현황
 
-- ✅ Google 로그인 & 게스트 닉네임 로그인
-- ✅ 방 생성 / 입장 / QR 공유
-- ✅ 큐 관리 (추가/삭제/진행)
-- 🔄 동기 재생 (호스트 기준 타임라인 보정)
-- 🔄 스킵 투표 & 실시간 리액션
-- 🔜 리뷰/피드백 반영한 UX 고도화
+- 🎨 기본 UI 레이아웃 하드코딩
+- ⏳ Google 로그인 & 게스트 닉네임 로그인 (예정)
+- ⏳ 방 생성 / 입장 / QR 공유 (예정)
+- ⏳ 큐 관리 (추가/삭제/진행) (예정)
+- ⏳ 동기 재생 (호스트 기준 타임라인 보정) (예정)
+- ⏳ 스킵 투표 & 실시간 리액션 (예정)
+- ⏳ 리뷰/피드백 반영한 UX 고도화 (예정)
+
 
 ---
 
